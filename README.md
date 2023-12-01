@@ -8,15 +8,16 @@ Para implementar este proyecto, descarga o clona el repositorio:
 
 ```bash
   git clone git@github.com:erickxs/PhpMailerTest.git
+  cd PhpMailerTest
 ```
 
-Usa la terminal y ejecuta el siguiente comando:
+Dentro de la carpeta PhpMailerTest usa la terminal y ejecuta el siguiente comando:
 
 ```bash
   composer install
 ```
 
-Crea un archivo en la carpeta config llamado app.php, puedes copiar la información desde config/app_example.php y cambiar las credenciales tanto de la base de datos como del correo electrónico desde el cual se enviarán los emails.
+Crea un archivo en la carpeta config llamado "app.php", puedes copiar la información desde config/app_example.php y cambiar las credenciales tanto de la base de datos como del correo electrónico desde el cual se enviarán los emails.
 
 Para finalizar crea una base de datos te suguiero llamarala "test_email" y luego importa el archivo subscribers.sql que viene en el proyecto
 
