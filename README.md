@@ -1,12 +1,16 @@
-
 # PHPMailer isSMTP()
 
 Pequeño proyecto demostrativo para el uso de isSMTP() de la libreria PHPMailer
 
-
 ## Implementación
 
-Para implementar este proyecto, descarga o clona el repositorio y ejecuta el siguiente comando:
+Para implementar este proyecto, descarga o clona el repositorio:
+
+```bash
+  git clone git@github.com:erickxs/PhpMailerTest.git
+```
+
+Usa la terminal y ejecuta el siguiente comando:
 
 ```bash
   composer install
@@ -26,8 +30,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-
 ## Authors
 
 - [@erickxs](https://www.github.com/erickxs)
-
